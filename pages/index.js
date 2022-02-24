@@ -3,6 +3,7 @@ import Head from "next/head";
 import About from "../components/homepage/AboutHim";
 import CampaignFeat from "../components/homepage/CampaignFeat";
 import Hero from "../components/homepage/Hero";
+import SupportGroups from "../components/homepage/SupportGroups";
 import Vision from "../components/homepage/Vision";
 
 export default function Home() {
@@ -17,6 +18,7 @@ export default function Home() {
       <CampaignFeat />
       <About />
       <Vision />
+      <SupportGroups />
     </Box>
   );
 }

@@ -1,6 +1,8 @@
 import "../styles/globals.css";
 import AOS from "aos";
 import "aos/dist/aos.css";
+import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick-theme.css";
 import { useEffect } from "react";
 import { motion } from "framer-motion";
 import { ChakraProvider } from "@chakra-ui/react";
