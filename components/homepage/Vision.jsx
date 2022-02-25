@@ -86,8 +86,9 @@ export default function Vision() {
               mx={{ lg: "auto" }}
               color={useColorModeValue("gray.500", "gray.400")}
             >
-              Lorem ipsum dolor sit amet consect adipisicing elit. Possimus
-              magnam voluptatum cupiditate veritatis in accusamus quisquam.
+              Being your next Representative is an extraordinary leadership
+              challenge. My administration will take on these challenges and
+              issues and attempt to fix.{" "}
             </chakra.p>
           </Box>
 
@@ -110,9 +111,10 @@ export default function Vision() {
                   />
                 }
               >
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                Maiores impedit perferendis suscipit eaque, iste dolor
-                cupiditate blanditiis ratione.
+                Other opportunities like skill acquisition, personal development
+                and taking leadership positions in the community will also be
+                made available to them. It is the goal of this government to
+                bring politics closer to the youths, our future leaders.
               </Feature>
 
               <Feature
@@ -126,9 +128,11 @@ export default function Vision() {
                   />
                 }
               >
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                Maiores impedit perferendis suscipit eaque, iste dolor
-                cupiditate blanditiis ratione.
+                The youth are the future leaders of tomorrow. The youth are
+                considered the engine room and life of the any community and it
+                is important they are carried along in everything we will be
+                doing which will provide them the opportunity to contribute to
+                the community development.
               </Feature>
 
               <Feature
@@ -142,9 +146,10 @@ export default function Vision() {
                   />
                 }
               >
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                Maiores impedit perferendis suscipit eaque, iste dolor
-                cupiditate blanditiis ratione.
+                Everyone in the community is entitled to good healthcare. This
+                we will do by identifying top public health concern, craft out a
+                workable plan and make sure the community have access to medical
+                services, even in emergency situation.
               </Feature>
 
               <Feature
@@ -158,9 +163,10 @@ export default function Vision() {
                   />
                 }
               >
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                Maiores impedit perferendis suscipit eaque, iste dolor
-                cupiditate blanditiis ratione.
+                Everyone in the community is entitled to good healthcare. This
+                we will do by identifying top public health concern, craft out a
+                workable plan and make sure the community have access to medical
+                services, even in emergency situation.
               </Feature>
             </Stack>
           </Box>
